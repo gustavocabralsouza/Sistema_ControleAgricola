@@ -12,8 +12,6 @@ SISTEMA CONTROLE AGRÍCOLA
 </p>
 
 ## Languages
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
 
 -  **JAVA** — Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
